@@ -1,8 +1,7 @@
 # THORChain
 
-- Open Source Native Asset Infrastructure.
+- Decentralized Exchange (DEX)
 - Non-custodial Bitcoin to ETH swaps & more
-- Earn yield on your coins
 - Powering crypto's largest wallets & exchanges
 
 **GitHub is deprecated.**
