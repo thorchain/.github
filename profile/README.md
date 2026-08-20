@@ -1,8 +1,5 @@
 # THORChain
-
-- Decentralized Exchange (DEX)
-- Non-custodial Bitcoin to ETH swaps & more
-- Powering crypto's largest wallets & exchanges
+THORChain is a decentralized exchange (DEX) enabling native cross-chain swaps without wrapped assets or bridges. All trades occur on-chain and are permissionless.
 
 **GitHub is deprecated.**
 
